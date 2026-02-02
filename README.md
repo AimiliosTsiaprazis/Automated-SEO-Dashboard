@@ -36,4 +36,5 @@ Then execute: python -m seo_dashboard.py
 Activate the environment: .venv\Scripts\activate
 Then execute: python -m seo_dashboard_visual.py
 
-## Several charts will be generated: first, for the top 10 keywords including Clicks, Impressions, and Positions. Next, summarizing all keywords with their Clicks, Impressions, and Positions and finally, charts encompassing the entire Excel File. Each chart is saved twice, once as an image and once as a PDF.
+## INFO 
+Several charts will be generated: first, for the top 10 keywords including Clicks, Impressions, and Positions. Next, summarizing all keywords with their Clicks, Impressions, and Positions and finally, charts encompassing the entire Excel File. Each chart is saved twice, once as an image and once as a PDF.
