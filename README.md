@@ -20,6 +20,8 @@ and activate it with:
 Install the required Python libraries:
 pip install pandas matplotlib google-api-python-client google-auth
 
+Get the Credentials.JSON From your Google Search Console Account and add it or replace it to the JSON File
+
 ## How to Use the SEO Dashboard
 
 1: In seo_dashboard.py, adjust the start and end dates to match the desired dates.
