@@ -39,9 +39,13 @@ pip install pandas matplotlib google-api-python-client google-auth
 Place it in the project folder or replace the existing JSON file.
 
 1. **Using the SEO Dashboard**
+
 Step 1: Configure Dates and JSON
+
 Open seo_dashboard.py.
+
 Configure the Service_Account_File = '' with the Credentials.JSON from your Google Search Console that you downloaded
+
 Set the start_date and end_date variables to match your desired analysis period.
 
 2: **Run the Dashboard Script**
