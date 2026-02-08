@@ -30,7 +30,7 @@ Follow these steps to set up the project locally on Windows:
 
 3. **Install required Python libraries**
 ```bash
-pip install pandas matplotlib google-api-python-client google-auth
+pip install pandas matplotlib google-api-python-client google-auth openpyxl
 ```
 
 4. **Set up Google Search Console credentials**
@@ -102,3 +102,41 @@ The visualization script generates several charts:
 -Comprehensive charts covering the entire dataset.
 
 -Each chart is saved in two formats: PNG image and PDF.
+
+### Screenshots: The Data for this Screenshots is created with Test-Data and not Real-Data for security Reasons
+
+
+<img width="1502" height="1205" alt="1" src="https://github.com/user-attachments/assets/3f62a5c7-f503-4a3a-945a-f435c0a05813" />
+
+
+<img width="1498" height="1208" alt="2" src="https://github.com/user-attachments/assets/9b02b5c3-b8e7-43b3-a2c1-1f3d76675910" />
+
+
+<img width="1497" height="1077" alt="3" src="https://github.com/user-attachments/assets/da3223cd-9fe2-4cdf-a709-3519287d09a8" />
+
+
+<img width="1493" height="1085" alt="4" src="https://github.com/user-attachments/assets/28954b9f-9702-4911-8950-b9b9e41057c9" />
+
+
+<img width="1497" height="1078" alt="5" src="https://github.com/user-attachments/assets/af2e666f-8525-4ec4-8788-f238ec41f93b" />
+
+
+<img width="1497" height="1080" alt="6" src="https://github.com/user-attachments/assets/41cdcfaf-e22b-46a6-bd1e-0a0c8efe86d4" />
+
+
+<img width="1502" height="1082" alt="7" src="https://github.com/user-attachments/assets/5e33203a-0aa4-48e1-be64-cb81e44723e9" />
+
+
+<img width="1501" height="1078" alt="8" src="https://github.com/user-attachments/assets/ff162ca1-0afa-47b5-9e9a-c57b924b77db" />
+
+
+<img width="1497" height="1080" alt="9" src="https://github.com/user-attachments/assets/5e8558ac-c73a-408c-a96c-a19964217ed8" />
+
+
+<img width="1497" height="1330" alt="10" src="https://github.com/user-attachments/assets/e2b87dfc-f85f-41a7-9a49-14e5e7eb4530" />
+
+
+<img width="1497" height="1328" alt="11" src="https://github.com/user-attachments/assets/2bd923d6-6597-4726-9abd-8feb91fdcab0" />
+
+
+<img width="1502" height="1330" alt="12" src="https://github.com/user-attachments/assets/a9d787f0-a893-462a-ade8-27daabb45fa1" />
